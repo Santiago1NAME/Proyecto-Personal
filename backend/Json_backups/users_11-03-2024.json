@@ -1,0 +1,360 @@
+[{
+  "_id": {
+    "$oid": "646fa3bdc3a1ad7b1a87e5aa"
+  },
+  "name": "Santiago",
+  "email": "esanti1020@gmail.com",
+  "password": "$2a$08$pZy/Tcqda6IdPe4lO2ULb.VdN4iMS67ZLgsH4dkfhqDRLe/fN0QBy",
+  "description": "Soy nuevo",
+  "createdAt": {
+    "$date": "2023-05-25T18:06:53.836Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-25T18:06:53.836Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ecf52b7d9b761276ec647b"
+  },
+  "name": "Edwin Santiago",
+  "email": "esanti10201@gmail.com",
+  "password": "$2a$08$.8KKgRNDYc7ROmqMaRHjBuGS1EBJq4gt.z8SOTf4mTGG7ycKIJ1qC",
+  "description": "Soy nuevo",
+  "createdAt": {
+    "$date": "2023-08-28T19:27:39.341Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-28T19:27:39.341Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ecf5347d9b761276ec647e"
+  },
+  "name": "Edwin Santiago",
+  "email": "esanti10202@gmail.com",
+  "password": "$2a$08$6csgEU9a8rFNqnqPTP0bG.99c6vTKxwMiwCXVH8UTRvY14zTf7Q/y",
+  "description": "Soy nuevo",
+  "createdAt": {
+    "$date": "2023-08-28T19:27:48.673Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-28T19:27:48.673Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ecf53c7d9b761276ec6481"
+  },
+  "name": "Edwin Santiago",
+  "email": "esanti10203@gmail.com",
+  "password": "$2a$08$SzxSovi4a2xp/diKVrXjk.JXCpNnzYSpR4b/ETXeRbczxdCKQqHx6",
+  "description": "Soy nuevo",
+  "createdAt": {
+    "$date": "2023-08-28T19:27:56.185Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-28T19:27:56.185Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ecf5427d9b761276ec6484"
+  },
+  "name": "Edwin Santiago Briceño Uribe",
+  "email": "esanti10205@gmail.com",
+  "password": "$2a$08$HjpS4a0aOz.sdjQ5MBZQ4eErOKFmv2ivfGHv6KHd.Jm.rMvEoxuRi",
+  "description": "Soy nuevo",
+  "createdAt": {
+    "$date": "2023-08-28T19:28:02.609Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-28T19:28:02.609Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ecf5487d9b761276ec6487"
+  },
+  "name": "Edwin Santiago",
+  "email": "esanti10206@gmail.com",
+  "password": "$2a$08$gpM4oTbGBQlv6HyN21J0YeSLEgnQIAS61y14OoszNYBdIJi.gk5N2",
+  "description": "Soy nuevo",
+  "createdAt": {
+    "$date": "2023-08-28T19:28:08.001Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-28T19:28:08.001Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ecf54f7d9b761276ec648a"
+  },
+  "name": "Edwin Santiago",
+  "email": "esanti10207@gmail.com",
+  "password": "$2a$08$AdQlTatVy258dqHXLJxyWuFCXPGTxEs5fMbT60z4w1Jcc8eLgwlNm",
+  "description": "Soy nuevo",
+  "createdAt": {
+    "$date": "2023-08-28T19:28:15.329Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-28T19:28:15.329Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ecf5567d9b761276ec648d"
+  },
+  "name": "Edwin Santiago",
+  "email": "esanti10208@gmail.com",
+  "password": "$2a$08$/6DpNUxNtuaKwqgKmw6x9OVHPVYk3PJlyXMVmd9LP1fLq0K68OHFO",
+  "description": "Soy nuevo",
+  "createdAt": {
+    "$date": "2023-08-28T19:28:22.369Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-28T19:28:22.369Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ecf55c7d9b761276ec6490"
+  },
+  "name": "Edwin Santiago",
+  "email": "esanti10209@gmail.com",
+  "password": "$2a$08$tZweNL.OX9DcNVoIrY6uaevzyxb9xDoRRDLKetZElsu559ka/UQYS",
+  "description": "Soy nuevo",
+  "createdAt": {
+    "$date": "2023-08-28T19:28:28.865Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-28T19:28:28.865Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ecf5657d9b761276ec6493"
+  },
+  "name": "Edwin Santiago",
+  "email": "esanti102010@gmail.com",
+  "password": "$2a$08$j4h1daQFnYWGBEr50xoWvuHb.tNGcNvVPKumeJwOvCYD7c2AxtjUK",
+  "description": "Soy nuevo",
+  "createdAt": {
+    "$date": "2023-08-28T19:28:37.129Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-28T19:28:37.129Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ecf56c7d9b761276ec6496"
+  },
+  "name": "Edwin Santiago",
+  "email": "esanti102011@gmail.com",
+  "password": "$2a$08$2QlujiBK4u5gYrdBpckp7OOfyUVXnjdo1Eu6RGXA7t8xXSgEGck6y",
+  "description": "Soy nuevo",
+  "createdAt": {
+    "$date": "2023-08-28T19:28:44.506Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-28T19:28:44.506Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ecf5737d9b761276ec6499"
+  },
+  "name": "Edwin Santiago",
+  "email": "esanti102012@gmail.com",
+  "password": "$2a$08$TGxiilFHU9D4yMwnYyQ7Vev6d0f.8WgqY2IHstG1iWPwZ5KLm2EEO",
+  "description": "Soy nuevo",
+  "createdAt": {
+    "$date": "2023-08-28T19:28:51.762Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-28T19:28:51.762Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64efcfa86befa5277b205635"
+  },
+  "name": "Edwin Santiago",
+  "email": "es32131anti1020@gmail.com",
+  "password": "$2a$08$T7MWhWMqrULBNQ8yiTiTs.Os5OChJZvKpmppCq.NljaaR4Weo9z0a",
+  "description": "Soy nuevo",
+  "createdAt": {
+    "$date": "2023-08-30T23:24:24.241Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-30T23:24:24.241Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64efcfae6befa5277b205638"
+  },
+  "name": "Edwin Santiago",
+  "email": "esan1111ti1020@gmail.com",
+  "password": "$2a$08$zGb65gdgiOsX67u1E32oF.mv78R9C8YW/NoOta7iuV/jTgLtjBvTq",
+  "description": "Soy nuevo",
+  "createdAt": {
+    "$date": "2023-08-30T23:24:30.796Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-30T23:24:30.796Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64efcfb56befa5277b20563b"
+  },
+  "name": "Edwin Santiago",
+  "email": "esan5123ti1020@gmail.com",
+  "password": "$2a$08$f5TZcNsnL0jzF7KBGHjT5uWMlJhA5enN/5yiH95cO3U6s6rE7IFjq",
+  "description": "Soy nuevo",
+  "createdAt": {
+    "$date": "2023-08-30T23:24:37.753Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-30T23:24:37.753Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64efcfbd6befa5277b20563e"
+  },
+  "name": "Edwin Santiago",
+  "email": "e51321santi1020@gmail.com",
+  "password": "$2a$08$fgJ6nfafU00uqI6lojQ8Me6mXhhSIArOh0zHVlKtt0ADDDSnynodG",
+  "description": "Soy nuevo",
+  "createdAt": {
+    "$date": "2023-08-30T23:24:45.730Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-30T23:24:45.730Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64efcfc56befa5277b205641"
+  },
+  "name": "Edwin Santiago",
+  "email": "es64anti1020@gmail.com",
+  "password": "$2a$08$3PWIr5TJfni7OgFKd/v0FeUeHBtzW21.8zn8vyayismahU91QoLw2",
+  "description": "Soy nuevo",
+  "createdAt": {
+    "$date": "2023-08-30T23:24:53.362Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-30T23:24:53.362Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64efcfd96befa5277b205645"
+  },
+  "name": "Edwin Santiago",
+  "email": "es1512321anti1020@gmail.com",
+  "password": "$2a$08$q4jFrhyJ0jjqnxboVTVjKuMzHugb0064kvWYGSFwL1Kq9gkzjs7gO",
+  "description": "Soy nuevo",
+  "createdAt": {
+    "$date": "2023-08-30T23:25:13.699Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-30T23:25:13.699Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64efcfe36befa5277b205648"
+  },
+  "name": "Edwin Santiago",
+  "email": "esa61231nti1020@gmail.com",
+  "password": "$2a$08$4kk9Bnkcvuy0mpWV6VmquOP.BEK9JYz1d2syRKBzVxDHxIiIbW1jW",
+  "description": "Soy nuevo",
+  "createdAt": {
+    "$date": "2023-08-30T23:25:23.019Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-30T23:25:23.019Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64efcfee6befa5277b20564b"
+  },
+  "name": "Edwin Santiago",
+  "email": "esanti10266666660@gmail.com",
+  "password": "$2a$08$jF0sV..m9EIZrXWIH4EOD.aaj/aH.2IgnM8q2mtZhh8GTruNarzna",
+  "description": "Soy nuevo",
+  "createdAt": {
+    "$date": "2023-08-30T23:25:34.378Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-30T23:25:34.378Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64efcff46befa5277b20564e"
+  },
+  "name": "Edwin Santiago",
+  "email": "e1cassanti1020@gmail.com",
+  "password": "$2a$08$BBONJBm0zISFNlBqoW75b.l/Z9m2ioT3P3NO0/PiLpkbmfHzxeokO",
+  "description": "Soy nuevo",
+  "createdAt": {
+    "$date": "2023-08-30T23:25:40.321Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-30T23:25:40.321Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64efcffa6befa5277b205651"
+  },
+  "name": "Edwin Santiago",
+  "email": "es512dsaanti1020@gmail.com",
+  "password": "$2a$08$3gXwSuoHkwPwn1G4ByDkdeNpO4FRW2aHZQuHfb4ILtpKPdjv.hgp.",
+  "description": "Soy nuevo",
+  "createdAt": {
+    "$date": "2023-08-30T23:25:46.689Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-30T23:25:46.689Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64efd0016befa5277b205654"
+  },
+  "name": "Edwin Santiago",
+  "email": "esandsadsa123i1020@gmail.com",
+  "password": "$2a$08$L9mNXQG/uxlQUU.dodBOPOg31fhUU0cY9qfvr45rpFZ1LVIVR/lsG",
+  "description": "Soy nuevo",
+  "createdAt": {
+    "$date": "2023-08-30T23:25:53.457Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-30T23:25:53.457Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65407e41316a09e71f7fcea7"
+  },
+  "name": "Edwin Santiago",
+  "email": "esanti10244444440@gmail.com",
+  "password": "$2a$08$UGaaA9iz4ughrSXBgbjLyuLMzKQPbNb3xwQ6ZhwULXiGieKfJbaeG",
+  "description": "Soy nuevo",
+  "createdAt": {
+    "$date": "2023-10-31T04:10:41.537Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-31T04:10:41.537Z"
+  }
+}]
