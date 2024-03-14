@@ -7,8 +7,6 @@ const router = Router();
 
 //Uso con middleware para validar acceso
 router.get('/', checkJwt, lstCtrl);
-
-//router.get('/', lstCtrl);
 router.post('/register', registerCtrl);
 
 export { router };
