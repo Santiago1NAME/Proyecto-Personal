@@ -1,0 +1,48 @@
+@screen md {
+  .md\:h-screen-without-header {
+    height: calc(100vh - 60px); /* Resta la altura del header */
+  }
+}
+.h-screen-without-header {
+  height: calc(100vh - 60px); /* Resta la altura del header */
+}
+
+.icon-nav-prin{
+  fill: white;
+  cursor: pointer;
+  width: 50px;
+}
+
+.icon-menu{
+  fill: black;
+  cursor: pointer;
+  width: 30px;
+}
+
+.icon-menu-prin{
+  fill: black;
+  cursor: pointer;
+  width: 25px;
+}
+
+.menu-prin-aside:hover::before{
+  content: '';
+  height: 40px;
+  width: 5px;
+  position: absolute;
+  left: 0;
+  background: cyan;
+}
+
+.menu-sec-aside:hover::before{
+  content: '';
+  height: 32px;
+  width: 5px;
+  position: absolute;
+  left: 0;
+  background: cyan;
+}
+
+.main-container{
+  height: calc(100vh - 155px);
+}

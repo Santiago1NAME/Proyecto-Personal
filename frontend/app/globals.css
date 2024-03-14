@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.alert-g::after{
+    content: '';
+    position: absolute;
+    bottom: -7px;
+    right: 0;
+    height: 7px;
+    animation: alert-with 3s linear normal forwards;
+}
+
+.alert-success::after{
+    background: #31c48d;
+}
+
+.alert-error::after{
+    background: #d64937;
+}
+
+.icon-show, .icon-hide{
+    fill: #14bdeb;
+    cursor: pointer;
+}
+
+.icon-show:hover, .icon-hide:hover{
+    fill: #588eda;
+}
+
+@keyframes alert-with{
+    from {
+        width: 0;
+    }
+    to {
+        width: 100%;
+    }
+
+}
